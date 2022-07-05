@@ -1,0 +1,24 @@
+﻿<Window x:Class="project5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:project5"
+        mc:Ignorable="d"
+        KeyDown="window1_KeyDown"
+        Title="MainWindow" Height="1080" Width="1920">
+    <Grid>
+        <StackPanel>
+            <TextBox Width="100" Height="20" HorizontalAlignment="Left" Name="rads" TextChanged="radius_TextChanged" Text="10"/>
+            <TextBox Focusable="True" Width="100" Height="20" HorizontalAlignment="Left" Name="subdivisions" TextChanged="subdivisions_TextChanged" Text="15"/>
+            <Button Width="100" Height="20" HorizontalAlignment="Left" Name="Apply" Click="Apply_Click">Apply</Button>
+            <ComboBox Width="100" Height="30" HorizontalAlignment="Right" Name="colorSelection" SelectionChanged="showCurrentColor" Text="Pick a color" IsEditable="True" IsManipulationEnabled="False">
+            </ComboBox>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Right" Click="loadImg" MouseRightButtonDown="Button_MouseRightButtonDown">loadImg</Button>
+
+        </StackPanel>
+        <Canvas Name="canvas" Width="1920" Height="1080">
+            <Image x:Name="image" Stretch="Fill"></Image>
+        </Canvas>
+    </Grid>
+</Window>

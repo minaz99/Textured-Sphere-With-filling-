@@ -1,0 +1,15 @@
+D:\sem6 stuff\Computer graphics\project5\bin\Debug\project5.exe.config
+D:\sem6 stuff\Computer graphics\project5\bin\Debug\project5.exe
+D:\sem6 stuff\Computer graphics\project5\bin\Debug\project5.pdb
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\project5.csprojAssemblyReference.cache
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\MainWindow.g.cs
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\App.g.cs
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\project5_MarkupCompile.cache
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\project5_MarkupCompile.lref
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\MainWindow.baml
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\project5.g.resources
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\project5.Properties.Resources.resources
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\project5.csproj.GenerateResource.cache
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\project5.csproj.CoreCompileInputs.cache
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\project5.exe
+D:\sem6 stuff\Computer graphics\project5\obj\Debug\project5.pdb
